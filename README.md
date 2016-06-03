@@ -43,7 +43,7 @@ works well:
 1.  Give us the elevator pitch. Why did you pursue this project? What does it
     do?
 1.  Demo one or two features from your application.
-1.  Answer some of the following exmaple questions:
+1.  Answer some of the following example questions:
 
     -   If you had another week, what would you work on next?
     -   What will you do differently for your next project?
