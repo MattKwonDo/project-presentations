@@ -19,7 +19,7 @@ You will have five minutes to talk and two minutes to take questions. Questions
 will be asked via Slack, and the moderator will deliver them to you when you are
 done speaking.
 
-If you receive questions you were not able to answer during your alotted time,
+If you receive questions you were not able to answer during your allotted time,
 it's a great idea to follow-up in Slack!
 
 ## Presenter Expectations
@@ -32,7 +32,7 @@ You are expected to demo a **deployed** application.
 ## Audience Expectations
 
 If you would like to ask a question or give encouragement, you should do so in
-the presentations channel on Slack. Questions from consultants and other staff
+the projects channel on Slack. Questions from consultants and other staff
 *might* take precedence in the queue, at the discretion of the moderator.
 
 ## Talk Structure
